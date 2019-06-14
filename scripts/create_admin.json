@@ -1,0 +1,12 @@
+{
+	"first_name":"admin",
+	"middle_name":"admin",
+	"last_name":"admin",
+	"login":"admin",
+	"password":"password",
+	"email":"admin@mail.com",
+	"occupation":"admin",
+	"is_onaft_student":2,
+	"rating":0,
+	"role":16
+}
